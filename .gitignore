@@ -1,0 +1,40 @@
+# ==========================================
+# Python (backend/)
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Environment secrets - NEVER commit .env, only .env.example
+.env
+backend/.env
+
+# Runtime-generated data - these should live on the Railway Volume in
+# production, not in git. Locally, regenerate with the data_pipeline scripts.
+telecom.db
+backend/telecom.db
+backend/rag/vector_store/
+
+# ==========================================
+# Node (admin-frontend/, user-frontend/)
+# ==========================================
+node_modules/
+dist/
+*.local
+
+# Frontend env files - never commit .env, only .env.example
+.env
+admin-frontend/.env
+user-frontend/.env
+
+# ==========================================
+# OS / editor cruft
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
