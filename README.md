@@ -2,9 +2,6 @@
 
 An AI-powered telecom customer support platform: a LangChain / Groq chat agent with RAG and tool-calling, ML models for churn and plan-tier prediction, and separate admin and customer React interfaces — all backed by a FastAPI service.
 
-
-> Built by a telecom engineer (NED University, Karachi) as an end-to-end applied-AI project: the same stack a telecom support team would actually use — chat, knowledge base, customer records, complaints and predictions — in one repo.
-
 ## What it does
 
 - **Customer chat** — a user asks about their balance, data/minutes left, a plan or a policy, or raises a complaint. The agent answers from the knowledge base or acts on the customer's real record via tools.
