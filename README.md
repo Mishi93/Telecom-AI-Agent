@@ -1,6 +1,6 @@
 # Telecom AI Agent
 
-An AI-powered telecom customer support platform: a LangChain / Groq chat agent with RAG and tool-calling, ML models for churn and plan-tier prediction, and separate admin and customer React interfaces — all backed by a FastAPI service.
+An AI-powered telecom customer support platform: a LangChain / Groq chat agent with RAG and tool-calling, ML models for churn and plan-tier prediction, and separate admin and customer streamlit interfaces — all backed by a FastAPI service.
 
 ## What it does
 
