@@ -173,6 +173,7 @@ Admin at http://localhost:5173, user chat at http://localhost:5174. Each `.env.e
 
 ## Screenshots
 
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/e890a7ec-b30d-4f9a-b79c-150e107c0589" />
 
 
 ## Technologies
