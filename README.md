@@ -175,6 +175,16 @@ Admin at http://localhost:5173, user chat at http://localhost:5174. Each `.env.e
 
 <img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/e890a7ec-b30d-4f9a-b79c-150e107c0589" />
 
+<img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/ec4f7035-6f4f-49bd-b226-ae45564c36b4" />
+
+<img width="1366" height="645" alt="image" src="https://github.com/user-attachments/assets/2803d0b8-548a-4b17-bbfb-a9265adf8893" />
+
+<img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/80367de3-6084-4cc8-8c79-6c6151d6ec2b" />
+
+<img width="1366" height="647" alt="image" src="https://github.com/user-attachments/assets/0e0138b0-2327-4429-8ff7-c9937786db60" />
+
+<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/c92a2627-867e-4b97-9449-e103adbb3038" />
+
 
 ## Technologies
 
